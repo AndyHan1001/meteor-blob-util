@@ -20,7 +20,7 @@ Package.onUse(function(api) {
   
   api.use('cosmos:browserify@0.10.0', 'client');
 
-  api.addFiles('app.browserify.js');
+  api.addFiles('app.browserify.js', 'client');
 
-  api.export('blobUtil');
+  api.export('blobUtil', 'client');
 });

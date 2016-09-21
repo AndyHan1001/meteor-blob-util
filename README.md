@@ -3,7 +3,7 @@ This is just a meteor wrapper for the npm package blob-util. On the client side,
 
 ## API
 
-`You can use 'blobUtil' object on both client and server side once you added this package. This object contains several useful methods.`
+`You can use 'blobUtil' object only on both client side once you added this package. This object contains several useful methods.`
 
 See [https://github.com/nolanlawson/blob-util](https://github.com/nolanlawson/blob-util) for all the documentation.
 
